@@ -13,6 +13,6 @@
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AstralitySoftware&label=Profile%20Views&icon=5&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=AstralitySoftware" />
   </a>
 </div>
